@@ -37,7 +37,7 @@
       display: grid;
       grid-template-rows: auto 1fr auto;
       position: relative;
-      overflow: hidden !important; 
+      overflow-x: hidden !important; 
       height: 100vh !important; 
       position: relative !important;
     }
