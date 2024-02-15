@@ -40,7 +40,7 @@
       display: grid;
       grid-template-rows: auto 1fr auto;
       position: relative;
-      overflow-x: hidden !important; 
+      overflow: hidden !important; 
       height: 100vh !important; 
       position: relative !important;
     }
