@@ -9,6 +9,8 @@
     	scroll-behavior: smooth;
     	font-size: 16px;
       height: 100%;
+    width: 100%;
+    transform: translate3d(0,0,0);
     }
 
     body{
@@ -41,7 +43,6 @@
       overflow-x: hidden !important; 
       height: 100vh !important; 
       position: relative !important;
-      width: 100vw !important;
     }
 
     .upper{
