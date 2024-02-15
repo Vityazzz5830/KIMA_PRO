@@ -3,14 +3,14 @@
       margin: 0;
       padding: 0;
       overflow-x: hidden !important; 
+    height: 100%;
+    width: 100%;
+    transform: translate3d(0,0,0);
     }
 
     html{
     	scroll-behavior: smooth;
     	font-size: 16px;
-      height: 100%;
-    width: 100%;
-    transform: translate3d(0,0,0);
     }
 
     body{
@@ -20,6 +20,10 @@
       display: grid;
       grid-template-rows: auto 1fr auto;
       position: relative;
+        height: 100%;
+        overflow: hidden !important;
+        width: 100%;
+        position: fixed;
     }
 
     ul,li {
