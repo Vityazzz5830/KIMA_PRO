@@ -746,33 +746,10 @@
 
 
 .runninglinesec{
-   display: none;
+   width: 100vw !important;
+  overflow-x: hidden !important;
 }
 
-
-.cmssec{
- 
-}
-
-.sertificatessec{
-  
-}
-
-.reviewssec{
- 
-}
-
-.kvizsec{
-  
-}
-
-.writetoussec{
-  
-}
-
-footer{
-  
-}
 
 
 /*-------------------------------ШАПКА-------------------------------*/ 
