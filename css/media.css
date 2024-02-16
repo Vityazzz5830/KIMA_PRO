@@ -743,6 +743,70 @@
      overflow-x: hidden !important;
   }
 
+  .firstssec{
+  display: none;
+}
+
+.directionsec{
+  display: none;
+}
+
+.developmentsec{
+  display: none;
+}
+
+.supportsec{
+  display: none;
+}
+
+.consultsec{
+  display: none;
+}
+
+.projectssec{
+  display: none;
+}
+
+.runninglinesec{
+  display: none;
+}
+
+.teamsec{
+  display: none;
+}
+
+.questionssec{
+  display: none;
+}
+
+.advantagessec{
+  display: none;
+}
+
+.cmssec{
+  display: none;
+}
+
+.sertificatessec{
+  display: none;
+}
+
+.reviewssec{
+  display: none;
+}
+
+.kvizsec{
+  display: none;
+}
+
+.writetoussec{
+  display: none;
+}
+
+footer{
+  display: none;
+}
+
 
 /*-------------------------------ШАПКА-------------------------------*/ 
    
