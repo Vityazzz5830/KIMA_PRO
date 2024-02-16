@@ -20,6 +20,9 @@
       display: grid;
       grid-template-rows: auto 1fr auto;
       position: relative;
+        overflow-x: hidden !important; 
+        height: 100vh !important; 
+        position: relative !important;
     }
 
     ul,li {
