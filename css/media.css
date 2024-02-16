@@ -1,19 +1,25 @@
 @media screen and (max-width: 1919px) and (min-width: 1200px){
 
-
 .developmentsec-content-slider{
   margin-left: 0px !important;
   width: calc(100vw - 15px) !important;
+  width: -webkit-calc(100vw - 15px) !important;
+  width: -moz-calc(100vw - 15px) !important;
 }
 
 .reviewssec {
   margin-left: 0px !important;
-  width: calc(100vw - 15px) !important;
+    width: calc(100vw - 15px) !important;
+  width: -webkit-calc(100vw - 15px) !important;
+  width: -moz-calc(100vw - 15px) !important;
+  
 }
 
 .teamsec-content-slider {
   margin-left: 0px !important;
-  width: calc(100vw) !important;
+    width: calc(100vw - 15px) !important;
+  width: -webkit-calc(100vw - 15px) !important;
+  width: -moz-calc(100vw - 15px) !important;
 }
   
   /*-------------------------------ВРАП-МЕНЮ-------------------------------*/  
@@ -1048,7 +1054,9 @@
 
 .developmentsec-content-slider {
     margin-left: 0px !important;
-    width: calc(100vw - 15px) !important;
+      width: calc(100vw - 15px) !important;
+  width: -webkit-calc(100vw - 15px) !important;
+  width: -moz-calc(100vw - 15px) !important;
   }
 
 .slick-list {
@@ -1154,7 +1162,9 @@
 
   .supportsec-content-list {
     margin-left: 0px !important;
-    width: calc(100vw - 15px) !important;
+      width: calc(100vw - 15px) !important;
+  width: -webkit-calc(100vw - 15px) !important;
+  width: -moz-calc(100vw - 15px) !important;
   }
 
 
@@ -2074,7 +2084,9 @@
   }
 
   .kvizsec-content-main-promo {
-    width: calc(100vw - 30px);
+     width: calc(100vw - 30px) !important;
+  width: -webkit-calc(100vw - 30px) !important;
+  width: -moz-calc(100vw - 30px) !important;
     padding-top: 30px;
     padding-left: 15px;
     padding-right: 15px;
