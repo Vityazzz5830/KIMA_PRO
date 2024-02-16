@@ -1122,7 +1122,7 @@ footer{
   .supportsec{
     padding-left: 15px;
     margin-top: 50px;
-    overflow-x: hidden !important;
+    /*overflow-x: hidden !important;*/
   }
 
   .supportsec-content h2 {
