@@ -6,6 +6,8 @@
         overflow-x: hidden !important; 
         height: 100vh !important; 
         position: relative !important;
+        touch-action: none;
+-ms-touch-action: none;
     }
 
     html{
@@ -23,6 +25,8 @@
         overflow-x: hidden !important; 
         height: 100vh !important; 
         position: relative !important;
+        touch-action: none;
+-ms-touch-action: none;
     }
 
     ul,li {
@@ -46,6 +50,8 @@
         overflow-x: hidden !important; 
         height: 100vh !important; 
         position: relative !important;
+        touch-action: none;
+-ms-touch-action: none;
     }
 
     .upper{
