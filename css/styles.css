@@ -23,6 +23,7 @@
         overflow-x: hidden !important; 
         height: 100vh !important; 
         position: relative !important;
+        width: 100% !important;
     }
 
     ul,li {
