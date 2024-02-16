@@ -3,6 +3,9 @@
       margin: 0;
       padding: 0;
       overflow-x: hidden !important; 
+        overflow-x: hidden !important; 
+        height: 100vh !important; 
+        position: relative !important;
     }
 
     html{
@@ -40,8 +43,6 @@
         overflow-x: hidden !important; 
         height: 100vh !important; 
         position: relative !important;
-        position: fixed !important;
-        width: 100%;
     }
 
     .upper{
